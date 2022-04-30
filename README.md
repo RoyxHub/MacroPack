@@ -14,7 +14,7 @@
 
 * Copy : https://github.com/RoyxHub/MacroPack
 * Paste at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Macro Pack Url" and press the button "Download Macro Pack"
-* Download Profile : [Links]https://cdn.discordapp.com/attachments/956823138254094386/970089242036437094/Story_Farm.json
+* Download Profile : [Links](https://cdn.discordapp.com/attachments/956823138254094386/970089242036437094/Story_Farm.json)
 * Place it at -> workspace -> RoyxHub -> Settings
 * At ui -> "Settings-Credit" -> "File Manager" -> press the "Refresh Profile" and Select Profile as "Story Farm" and Set it to default
 * Press "Load" + "Auto load" then "Auto save"
@@ -25,9 +25,10 @@
 * Make Sure Then You're Setting On Lobby
 
 ## Community
-Discord : [Links]https://discord.com/invite/AYRXDmgjjU
+Discord : [Links](https://discord.com/invite/AYRXDmgjjU)
 
 ## Buying Script
 
-Website : [Links]https://royx.net/
-sellix : [Links]https://royx.sellix.io/
+Website : [Links](https://royx.net/)
+
+sellix : [Links](https://royx.sellix.io/)
