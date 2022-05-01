@@ -13,7 +13,7 @@
 
 ## Usage
 
-* Copy : https://github.com/RoyxHub/MacroPack.git [If dowloader function is error just downloadd it from : [Links](https://cdn.discordapp.com/attachments/870236549957189664/970386402917376031/MacroPack.rar) and ignore step 2&3 
+* Copy : https://github.com/RoyxHub/MacroPack.git [If dowloader function is error just download it from : [Links](https://cdn.discordapp.com/attachments/870236549957189664/970386402917376031/MacroPack.rar) and ignore step 2&3 
 * Paste at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Macro Pack Url" and press the button "Download Macro Pack"
 * Download Profile : [Links](https://cdn.discordapp.com/attachments/956823138254094386/970125975528542238/Story_Farm.json)
 * Place it at -> workspace -> RoyxHub -> Settings
