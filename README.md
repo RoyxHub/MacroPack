@@ -19,7 +19,7 @@
 * Place it at -> workspace -> RoyxHub -> Settings
 * At ui -> "Settings-Credit" -> "File Manager" -> press the "Refresh Profile" and Select Profile as "Story Farm" and Set it to default
 * Press "Load" + "Auto load" then "Auto save"
-* Enable Auto skip Then "Auto join" 
+* Enable Auto skip Wave Then at ui press "Auto join" 
 
 ## Guide
 
