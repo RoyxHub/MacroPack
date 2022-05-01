@@ -4,7 +4,7 @@
 
 ## Unit Using
 
-### to get all these unit : Go to "Extra function" -> Click on "Redeem All Codes"
+### to get all of these units : Go to "Extra function" -> Click on "Redeem All Codes"
 * All Seeing ⭐4
 * Winged Uru ⭐3
 * Koku ⭐3
