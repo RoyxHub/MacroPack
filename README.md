@@ -15,9 +15,9 @@
 
 * Copy : https://github.com/RoyxHub/MacroPack.git
 * Paste at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Macro Pack Url" and press the button "Download Macro Pack"
-* Download Profile : [Links](https://cdn.discordapp.com/attachments/961663721975976078/979384244306599986/Story_Farm.json)
-* Place it at -> workspace -> RoyxHub -> Settings
-* At ui -> "Settings-Credit" -> "File Manager" -> press the "Refresh Profile" and Select Profile as "Story Farm" and Set it to default
+* Copy : https://github.com/RoyxHub/Profile.git
+* Place at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Profile Url" and press the button "Download Profile"
+* At ui -> "Settings-Credit" -> "File Manager" -> press the "Refresh Profile" and Select Profile as "AutoFarmStory" and Set it to default
 * Press "Load" + "Auto load" then "Auto save"
 * Enable Auto skip Wave Then at ui press "Auto join" 
 
