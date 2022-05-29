@@ -15,7 +15,7 @@
 
 * Copy : https://github.com/RoyxHub/MacroPack.git
 * Paste at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Macro Pack Url" and press the button "Download Macro Pack"
-* Copy : https://github.com/RoyxHub/Profile.git
+* Copy : https://cdn.discordapp.com/attachments/870201487458979910/980561070831849532/AutoFarmStory.json
 * Place at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Profile Url" and press the button "Download Profile"
 * At ui -> "Settings-Credit" -> "File Manager" -> press the "Refresh Profile" and Select Profile as "AutoFarmStory" and Set it to default
 * Press "Load" + "Auto load" then "Auto save"
