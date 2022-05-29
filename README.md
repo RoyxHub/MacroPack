@@ -15,6 +15,7 @@
 
 * Copy : https://github.com/RoyxHub/MacroPack.git
 * Paste at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Macro Pack Url" and press the button "Download Macro Pack"
+  
   (if it doesn't work, just Download Zip and place it at -> workspace -> RoyxHub -> RoyxAllStar_Marco then rename the folder as "MacroPack")
 * Copy : https://cdn.discordapp.com/attachments/870201487458979910/980561070831849532/AutoFarmStory.json
 * Place at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Profile Url" and press the button "Download Profile"
