@@ -17,7 +17,7 @@
 * Paste at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Macro Pack Url" and press the button "Download Macro Pack"
   
   (if it doesn't work, just Download Zip and place it at -> workspace -> RoyxHub -> RoyxAllStar_Marco then rename the folder as "MacroPack")
-* Copy : https://cdn.discordapp.com/attachments/956823138254094386/996907555378974810/Story_Farm.json
+* Copy : https://cdn.discordapp.com/attachments/870201487458979910/1017068895590436904/FarmLv100.json
 * Place at ui -> "Settings-Credit" -> "Dowloader" -> Paste it to "Profile Url" and press the button "Download Profile"
 * At ui -> "Settings-Credit" -> "File Manager" -> press the "Refresh Profile" and Select Profile as "AutoFarmStory" and Set it to default
 * Press "Load" + "Auto load" then "Auto save"
